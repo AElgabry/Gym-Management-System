@@ -1,0 +1,15 @@
+E:\Full-Stack\Back-End\Gym Management\GymManagement.BLL\bin\Debug\net9.0\GymManagement.BLL.deps.json
+E:\Full-Stack\Back-End\Gym Management\GymManagement.BLL\bin\Debug\net9.0\GymManagement.BLL.dll
+E:\Full-Stack\Back-End\Gym Management\GymManagement.BLL\bin\Debug\net9.0\GymManagement.BLL.pdb
+E:\Full-Stack\Back-End\Gym Management\GymManagement.BLL\bin\Debug\net9.0\GymManagement.DAL.dll
+E:\Full-Stack\Back-End\Gym Management\GymManagement.BLL\bin\Debug\net9.0\GymManagement.DAL.pdb
+E:\Full-Stack\Back-End\Gym Management\GymManagement.BLL\obj\Debug\net9.0\GymManagement.BLL.csproj.AssemblyReference.cache
+E:\Full-Stack\Back-End\Gym Management\GymManagement.BLL\obj\Debug\net9.0\GymManagement.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Full-Stack\Back-End\Gym Management\GymManagement.BLL\obj\Debug\net9.0\GymManagement.BLL.AssemblyInfoInputs.cache
+E:\Full-Stack\Back-End\Gym Management\GymManagement.BLL\obj\Debug\net9.0\GymManagement.BLL.AssemblyInfo.cs
+E:\Full-Stack\Back-End\Gym Management\GymManagement.BLL\obj\Debug\net9.0\GymManagement.BLL.csproj.CoreCompileInputs.cache
+E:\Full-Stack\Back-End\Gym Management\GymManagement.BLL\obj\Debug\net9.0\GymManag.0C245ED7.Up2Date
+E:\Full-Stack\Back-End\Gym Management\GymManagement.BLL\obj\Debug\net9.0\GymManagement.BLL.dll
+E:\Full-Stack\Back-End\Gym Management\GymManagement.BLL\obj\Debug\net9.0\refint\GymManagement.BLL.dll
+E:\Full-Stack\Back-End\Gym Management\GymManagement.BLL\obj\Debug\net9.0\GymManagement.BLL.pdb
+E:\Full-Stack\Back-End\Gym Management\GymManagement.BLL\obj\Debug\net9.0\ref\GymManagement.BLL.dll
