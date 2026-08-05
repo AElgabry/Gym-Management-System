@@ -2,7 +2,6 @@
 
 A gym management web application built with **ASP.NET Core MVC (.NET 9)**, using a three-layer architecture (Presentation / Business Logic / Data Access), the Repository + Unit of Work pattern, AutoMapper, and ASP.NET Core Identity for authentication and role-based authorization.
 
-> Status: mostly complete — core modules are functional, with ongoing polishing.
 
 ## Overview
 
